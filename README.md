@@ -19,7 +19,7 @@
 
 ## Hello, I'm Martin
 
-[![Linkedin Badge](https://img.shields.io/badge/-Martin%20Wallet-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martinwallet/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Martin%20Wallet-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-wallet/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@LeWalletM-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=LeWalletM "Follow on Twitter")
 
 
